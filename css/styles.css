@@ -14,13 +14,9 @@ body{
 }
 .texto{
     color: white;
-    tex
+
 }
 
-.box{
-    
- 
-}
 .b1{
     grid-column: 1 / 6;
     display: flex;
