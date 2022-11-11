@@ -31,30 +31,30 @@ body{
 
 }
 .b3{
-    background: url("/img/img01.jpg");
+    background: url("../img/img01.jpg");
     background-size: cover; 
     background-position: center;
 }
 
 .b4{
-    background: url("/img/img02.jpg");
+    background: url("../img/img02.jpg");
     background-size: cover; 
     background-position: center;
 }
 
 .b5{
-    background: url("/img/img03.jpg");
+    background: url("../img/img03.jpg");
     background-size: cover; 
     background-position: center;
 }
 .b6{
-    background: url("/img/img04.jpg");
+    background: url("../img/img04.jpg");
     background-size: cover; 
     background-position: center;
 }
 
 .b7{
-    background: url("/img/img05.jpg");
+    background: url("../img/img05.jpg");
     background-size: cover; 
     background-position:bottom;
 }
@@ -69,31 +69,31 @@ body{
 }
 
 .b9{
-    background: url("/img/img09.jpg");
+    background: url("../img/img09.jpg");
     background-size: cover; 
     background-position:left;
 }
 
 .b10{
-    background: url("/img/img10.jpg");
+    background: url("../img/img10.jpg");
     background-size: cover; 
     background-position:left;
 }
 
 .b11{
-    background: url("/img/img11.jpg");
+    background: url("../img/img11.jpg");
     background-size: cover; 
     background-position:left;
 }
 
 .b12{
-    background: url("/img/img12.jpg");
+    background: url("../img/img12.jpg");
     background-size: cover; 
     background-position:left;
 }
 
 .b13{
-    background: url("/img/img.jpg");
+    background: url("../img/img.jpg");
     background-size: cover; 
     background-position:center;
 }
