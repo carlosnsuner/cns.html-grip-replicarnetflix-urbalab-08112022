@@ -7,7 +7,7 @@
 
 Reto: Eres capaz de replicar el layout principal de Netflix...
 
-![Ejercicio](https://github.com/carlosnsuner/cns.html-grip-replicarnetflix-urbalab-08112022/tree/master/img/capturanetflix.png)
+![Ejercicio](https://github.com/carlosnsuner/cns.html-grip-replicarnetflix-urbalab-08112022/raw/master/img/capturanetflix.PNG)
 
 
 ***
